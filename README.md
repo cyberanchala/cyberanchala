@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cyberanchala
 - 👀 I’m interested in Cyber Security and Forensics
-- 🌱 I’m currently learning Wazuh
 
 
 <!---
